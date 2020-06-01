@@ -18,7 +18,15 @@ eg1: I want to know the rating of a movie. I could get the data from IMBD and Ro
 eg2: I want to collect my friends' resumes, some friends send me the resumes as pdf version others send me their resumes as word version.
 2)   Challenging: 
  - Data inteegration
- #- Heterogeneous(各种各样的）Traditional data inteegration relies on schema mapping. Like we leaned in COMP9331/3331 we need to find Primary Key
- #- 
- - List item
- - 
+ #- Heterogeneous(各种各样的）Traditional data inteegration relies on schema mapping. Like we leaned in COMP9331/3331 we need to find Primary Key to indicate us how to linke to entities.
+ #- Record Linkage in variety data (多种数据之间的联系）Different data from different sources might related to the same entities. How can we detect that?
+ - Data curation
+ #- Data curation includes all the processes needed for principled and controlled data creation, maintenance, and management, together with the capacity to add value to data
+### 3.[Velocity](https://www.forbes.com/sites/brentdykes/2017/06/28/big-data-forget-volume-and-variety-focus-on-velocity/#419dffd46f7d)(快速的数据流转和动态的数据体系)
+1) Defination: Velocity is the speed in which data is accessible. I remember the days of nightly batches, now if it’s not real-time it’s usually not fast enough.
+2) Challenging: 
+       -  Batch processing :process the data quickly
+       - Real time processing: Many types of data have a limited shelf-life where their value can erode with time—in some cases, very quickly
+       - Transmission
+
+
