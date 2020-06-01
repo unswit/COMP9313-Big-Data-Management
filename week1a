@@ -1,0 +1,24 @@
+#  Introduction
+Lecturer：Yifang Sun
+Considering some students might have time differecnce lecturer upload his pre-recorded lecture video to google drive and Baidu Netdisk...hmmmmm......alothough I am unsatisfied with pre-rocorded lecture but he uploaded video to Baidu Netdisk means he do care about Chiness students.
+
+The first concept of this course is Big Data. However, our Professor said there is no standard definition which is very uncommon in a course.
+
+
+## Major Characteristics of Big Data
+7 V's
+### 1.Volume(Scale)（大量）
+1) Definatition: Volume is how much data we have – what used to be measured in Gigabytes is now measured in Zettabytes (ZB) or even Yottabytes (YB). The IoT (Internet of Things) is creating exponential growth in data. 
+![1 zettabyte](https://img-blog.csdnimg.cn/20200601170344992.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Rhbm5pZVo=,size_16,color_FFFFFF,t_70) 
+Source: [The Digitization of the World From Edge to Core](https://www.seagate.com/files/www-content/our-%20story/trends/files/idc-seagate-dataage-whitepaper.pdf)
+2) Challenging:Time complexity
+### 2. Variety（Diversity）（多样性）
+1）Defination: Variety describes one of the biggest challenges of big data. It can be unstructured and it can include so many different types of data from XML to video to SMS. Organizing the data in a meaningful way is no simple task, especially when the data itself changes rapidly.In other words, different sources + different types.
+eg1: I want to know the rating of a movie. I could get the data from IMBD and Rotte Tomatoes.
+eg2: I want to collect my friends' resumes, some friends send me the resumes as pdf version others send me their resumes as word version.
+2)   Challenging: 
+ - Data inteegration
+ #- Heterogeneous(各种各样的）Traditional data inteegration relies on schema mapping. Like we leaned in COMP9331/3331 we need to find Primary Key
+ #- 
+ - List item
+ - 
